@@ -2,7 +2,7 @@
 
 ### I'm developing my coding skills all the time and I'm especially interested in  front end, Python and Java Script 
 
-![me](ARDITTI93/me.jpg)
+![me](https://drive.google.com/file/d/1GUqo_EzN4GNxO4wEfPaKCSVj5CAgdSZl/view?usp=sharing)
 
 
 <!--
