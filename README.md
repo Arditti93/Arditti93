@@ -2,8 +2,7 @@
 
 ### I'm developing my coding skills all the time and I'm especially interested in front end, Python and Java Script 
 
-![Me](me.jpg)
-
+<img src="me.jpg">
 <!--
 **Arditti93/Arditti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
