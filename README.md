@@ -1,8 +1,7 @@
 ## Hey there I'm Alex, Welcome to my GitHub 
 
 ### I'm developing my coding skills all the time and I'm especially interested in front end, Python and Java Script 
-
-<img src="https://drive.google.com/file/d/1GUqo_EzN4GNxO4wEfPaKCSVj5CAgdSZl/view?usp=sharing">
+![me](me.jpg)
 <!--
 **Arditti93/Arditti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
