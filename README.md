@@ -1,6 +1,8 @@
 ## Hey there I'm Alex, Welcome to my GitHub 
 
 ### I'm developing my coding skills all the time and I'm especially interested in React and front end development. I'm also keen on Python and Java script 
+
+### Having studied hard during lockdown on a Master Coding immersive bootcamp with Code Nation; I am determined to use these skills to start a new career in coding and developing. ### I’m inspired to continue to develop and expand these skills further. 
 <!--
 **Arditti93/Arditti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
