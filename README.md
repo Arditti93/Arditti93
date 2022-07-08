@@ -1,19 +1,13 @@
 ## Hey there I'm Alex, Welcome to my GitHub 
 
-### I'm developing my coding skills all the time and I'm especially interested in React and front end development. I'm also keen on Python and Java script 
+An enthusiastic software developer with a year and a half of experience.​ Strong in back end technologies and integration with intuitive problem-solving skills.  Proficient in JavaScript, jQuery, Python and AWS. Ability to translate business requirements into technical solutions and engaging customer experiences. 
 
-### Having studied hard during lockdown on a Master Coding immersive bootcamp with Code Nation; I am determined to use these skills to start a new career in coding and developing.  I’m inspired to continue to develop and expand these skills further. 
-<!--
-**Arditti93/Arditti93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web development with HTML5, CSS3 and JavaScript ​
+jQuery
+Python​
+Docker​
+AWS ​
+Version Control​
+React App​
+Agile methodologies​
+Node 
